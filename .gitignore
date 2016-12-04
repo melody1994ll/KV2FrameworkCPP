@@ -1,0 +1,23 @@
+#----------------------------------------
+# 忽略的文件
+#-----------------------------------------
+
+# 忽略build目录下的所有文件
+build/
+bin/
+3rdparty/
+
+# 忽略所有.lib结尾的文件
+#*.lib
+
+# 除了Opencv310.lib
+#!Opencv310.lib
+
+# 仅仅忽略项目根目录下的build文件，不包括build/build
+#/build
+
+# 忽略doc/tutorial.txt 但不包括doc/module/tutorial.txt
+#doc/*.txt
+
+# 忽略doc文件下所有的.txt文件
+#doc/**/*.txt
