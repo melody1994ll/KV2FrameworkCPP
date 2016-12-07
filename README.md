@@ -17,3 +17,5 @@ Kinect V2的C++程序框架
  >WaitForMultipleObjects处理事件获取数据流
  * [UnaNancyOwen](http://unanancyowen.com/en/kinect-sdk-v2-samples/)<br>
  >一个日本人的博客，[github](https://github.com/UnaNancyOwen/Kinect2Sample)上有源码
+ * [基于事件模型的数据获取方式](https://github.com/kaorun55/Kinect-for-Windows-SDK-v2.0-Samples/tree/master/C%2B%2B)
+ >github代码仓库
